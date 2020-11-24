@@ -13,3 +13,5 @@ Data Analysis 2 (Tableau and Rstudio) - Analysis of Food services by County, Chi
 Data Analysis 3 (Tableau and Rstudio) - Analysis of Distributions, Messier objects, Montana Population and Air Quality.
 
 Data Analysis 4 (Tableau and Rstudio) - Mosaic Plot and Time series.
+
+Ecommerce Dataset Analysis (Tableau and Rstudio) - MVP - Seller, network_graph, orders_pd2, shoppers_intention_pd2
