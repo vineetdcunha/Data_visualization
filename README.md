@@ -9,3 +9,5 @@ Eliud Kipchoge - Medal tally on international level as well as personal level
 Data Analysis 1 (Tableau and Rstudio) - Analysis of Intel stock price, GM cars dataset, Population and Cellular operators.
 
 Data Analysis 2 (Tableau and Rstudio) - Analysis of Food services by County, Chicago crashes and Portland water levels.
+
+Data Analysis 3 (Tableau and Rstudio) - Analysis of Distributions, Messier objects, Montana Population and Air Quality.
