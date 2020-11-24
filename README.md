@@ -11,3 +11,5 @@ Data Analysis 1 (Tableau and Rstudio) - Analysis of Intel stock price, GM cars d
 Data Analysis 2 (Tableau and Rstudio) - Analysis of Food services by County, Chicago crashes and Portland water levels.
 
 Data Analysis 3 (Tableau and Rstudio) - Analysis of Distributions, Messier objects, Montana Population and Air Quality.
+
+Data Analysis 4 (Tableau and Rstudio) - Mosaic Plot and Time series.
